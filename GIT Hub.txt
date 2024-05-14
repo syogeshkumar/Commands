@@ -1,0 +1,9 @@
+git add 
+git add .
+git commit
+git commit -m "---"
+git push
+git push -u origin master
+
+git remote add origin ssh
+
